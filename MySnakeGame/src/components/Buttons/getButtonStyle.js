@@ -9,3 +9,5 @@ function getButtonStyle(styleType){
         return 'bg-green-500'
     }
 }
+
+export default getButtonStyle;
